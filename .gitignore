@@ -11,7 +11,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Images (temp?)
-content/public/images
+.content/public/images/
 
 
 # environment variables
