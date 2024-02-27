@@ -2,7 +2,7 @@
 external: false
 title: Best Coffee in Xian China
 description: Coffee in China is great, but finding it is hard. Here's my favourite cafes in Xian.
-date: 2022-11-22
+date: 2024-02-01
 ---
 
 Finding good cafes in China can be hard, especially with the lack of content online in English.
