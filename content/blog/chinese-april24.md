@@ -2,12 +2,14 @@
 external: false
 title: Chinese Study Update - April 2024
 description: Chinese Study Update - April 2024
-date: 2024-04-24
-draft: true
+date: 2024-05-01
+
 
 ---
 
-I've been studying Mandarin for many years now, and whilst I'd consider myself intermediate, there is still a huge wall of vocab to be learned before, sometimes it feels never ending. I also recently staretd picking up some Cantonese vocab over the past month, I haven't started actively studying Cantonese before I thought it would be useful to log the vocab that I have learnt for both languages in April 2024.
+I've been studying Mandarin for many years now, and whilst I'd consider myself intermediate, there is still a huge wall of vocab to be learned before I'm satisfied with my level. Sometimes it feels never ending. I also recently started picking up some Cantonese vocab over the past month, I haven't started actively studying Cantonese yet, just acquiring basic vocab and learning the tones. 
+
+Here is the vocab I learnt for both languages in April 2024.
 
 ## Mandarin Vocab
 
@@ -66,6 +68,25 @@ I've been studying Mandarin for many years now, and whilst I'd consider myself i
 竹叶 - Bamboo leaf 
 鱼虾 - Fish and shrimp 
 馅 - Filling
+隧道 - tunnel
+保留 - preserve / retain
+叛逆 - rebel
+台州 - Taizhou (city)
+地理 - geography
+将强 - strong
+挖 - dig
+整洁 - tidy
+东海 - East Ocean
+歌迷 - fan of a singer
+海滨 - coast
+海风 - ocean air
+海水 - ocean water
+特殊 - special
+自豪 - proud
+痛苦 - painful
+赶到 - hurry / rush to arrive somewhere
+默默无闻 - obscure
+
 
 ## Cantonese Vocab
 
